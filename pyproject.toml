@@ -1,0 +1,13 @@
+[project]
+name = "swiftbite-sales-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "groq>=1.1.1",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "streamlit>=1.55.0",
+]
