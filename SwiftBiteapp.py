@@ -275,7 +275,7 @@ if st.button("🚀 Generate Account Insights", type="primary", use_container_wid
             st.markdown(
                 f"""
                 <div style="
-                    background-color: #f8f9fa;
+                    background-color: #000000;
                     border-left: 5px solid #FF6B35;
                     padding: 20px;
                     border-radius: 8px;
